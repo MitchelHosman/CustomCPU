@@ -1,0 +1,16 @@
+CustomCPU.gprj.user# Simulation waveforms
+*.vcd
+
+# Simulation executables
+*_sim
+
+# Gowin generated files
+impl/
+*.log
+*.rpt
+*.tmp
+*.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
