@@ -1,6 +1,6 @@
 # Custom 16-bit CPU
 
-A modular 16-bit CPU designed and implemented in **Verilog**. The processor was developed from individual RTL modules and integrated into a complete datapath and control system. Each major module was verified through simulation and waveform analysis.
+A modular 16-bit CPU designed and implemented in Verilog. The processor was developed from individual RTL modules and integrated into a complete datapath and control system. Each major module was verified through simulation and waveform analysis.
 
 ## Features
 
