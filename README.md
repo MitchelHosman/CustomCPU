@@ -18,10 +18,10 @@ A modular 16-bit CPU designed and implemented in Verilog. The processor was deve
 The CPU is organized into several modular components:
 
 * **ALU** - Performs arithmetic and logical operations
-* **Register File** — Stores and provides access to processor registers
-* **Instruction Decoder** — Interprets instructions and generates control signals
-* **Control Logic** — Coordinates the operation of the processor
-* **Datapath** — Connects the processor components and manages data flow
+* **Register File** - Stores and provides access to processor registers
+* **Instruction Decoder** - Interprets instructions and generates control signals
+* **Control Logic** - Coordinates the operation of the processor
+* **Datapath** - Connects the processor components and manages data flow
 
 ## Verification
 
