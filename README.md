@@ -28,6 +28,7 @@ The CPU is organized into several modular components:
 Individual CPU modules were verified using **Verilog testbenches** and simulated using **Icarus Verilog**. **GTKWave** was used to inspect simulation waveforms, identify functional issues, and verify expected processor behavior.
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d49a78e8-ed63-4b64-bec8-808276fce698" />
+
 *CPU simulation waveform showing instruction execution, program counter progression, control signals, and ALU results.*
 
 ## Tools
